@@ -57,8 +57,8 @@ Please note that free distribution does not automatically mean the source code i
 
 ## Links
 
-- **Website:** [GGTR Audio Website]
-- **YouTube:** [GGTR Audio YouTube Channel]
+- **Website:** https://ggtraudio.pages.dev/
+- **YouTube:** https://youtu.be/n2FWl7tVh9Y?si=JJsraaCB2nwRjXHM
 - **Downloads:** [GitHub Releases]
 
 ---
