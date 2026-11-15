@@ -29,17 +29,6 @@ It compares their frequency characteristics and calculates the difference betwee
 
 The final result depends on the quality and isolation of the reference recording, as well as your own signal chain.
 
-## Inspiration
-
-The core concept behind GGTR Tone Match was inspired by the Tone Match functionality found in Fractal Audio Systems' Axe-Fx products.
-
-GGTR Tone Match is an independently developed implementation and is not affiliated with, endorsed by, or officially connected to Fractal Audio Systems.
-
-## Technology
-
-- C++
-- JUCE Framework
-- VST3 Plugin Format
 
 ## About GGTR Audio
 
@@ -47,13 +36,7 @@ GGTR Audio is an independent development initiative focused on making useful too
 
 Our goal is to make hard-to-access tools more accessible through plugins, explore new ideas, and share the products we create with everyone — completely free of charge.
 
-## License & Distribution
 
-GGTR Tone Match is distributed free of charge.
-
-The compiled plugin binaries are available through the **Releases** section of this repository.
-
-Please note that free distribution does not automatically mean the source code is open source. All rights to the software remain with their respective owners unless otherwise stated.
 
 ## Links
 
